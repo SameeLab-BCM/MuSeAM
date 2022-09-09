@@ -29,7 +29,10 @@
   </a>
 
   <p align="center">
-     * Multinomial Convolutions for Joint Modeling of Sequence Motifs and Enhancer Activities *
+     * Multinomial Convolutions for Joint Modeling of Regulatory Motifs and Sequence Activity Readouts *
+     We propose to learn convolutions as multinomial distributions, thus streamlining interpretable motif discovery with CNN model fitting. 
+     <br />
+     Our published paper is available at: <a href="https://www.mdpi.com/2073-4425/13/9/1614">https://www.mdpi.com/2073-4425/13/9/1614</a>
     <br />
     <br />
     <br />
