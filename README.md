@@ -37,11 +37,6 @@
     <br />
     <br />
     <br />
-    <a href="Link to demo">View Demo</a>
-    ·
-    <a href="Link to repo issues">Report Bug</a>
-    ·
-    <a href="Link to repo issues">Request Feature</a>
   </p>
 </p>
 
