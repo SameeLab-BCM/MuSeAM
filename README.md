@@ -33,7 +33,7 @@
      <br />
      We propose to learn convolutions as multinomial distributions, thus streamlining interpretable motif discovery with CNN model fitting. 
      <br />
-     Our published paper is available at: <a href="https://www.mdpi.com/2073-4425/13/9/1614">https://www.mdpi.com/2073-4425/13/9/1614</a>
+     This paper is published at MDPI genes (<a href="https://www.mdpi.com/2073-4425/13/9/1614">https://www.mdpi.com/2073-4425/13/9/1614</a>)
     <br />
     <br />
     <br />
